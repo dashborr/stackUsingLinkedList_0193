@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+
 class Node
 {
 public:
@@ -109,3 +110,5 @@ int main()
             cout << "Invalid choice. Try again." << endl;
             break;
         }
+
+        cout << endl;
