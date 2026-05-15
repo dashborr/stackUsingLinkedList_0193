@@ -48,3 +48,5 @@ public:
         top = top->next;
         delete temp;
     }
+
+    void peek()
